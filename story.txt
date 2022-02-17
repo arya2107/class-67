@@ -1,2 +1,5 @@
 commit 1
 once upon a time there lived arabbit in a jungle .
+commit 2
+the rabbit lived in the jungle with all the other animals.
+the rabbit used to run very fast.
